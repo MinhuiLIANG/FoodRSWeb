@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/FoodRSWeb/static/js/main.22ded0c2.js",
+    "main.js": "/FoodRSWeb/static/js/main.de702a9c.js",
     "static/js/45.265dc2f0.js": "/FoodRSWeb/static/js/45.265dc2f0.js",
     "static/media/neutral.png": "/FoodRSWeb/static/media/neutral.3e5ab9621a6e8ea5bb74.png",
     "static/media/congrats.png": "/FoodRSWeb/static/media/congrats.0bd4240400b2eb721550.png",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/js/45.265dc2f0.js",
-    "static/js/main.22ded0c2.js"
+    "static/js/main.de702a9c.js"
   ]
 }
