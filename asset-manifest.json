@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/FoodRSWeb/static/js/main.3830371e.js",
+    "main.js": "/FoodRSWeb/static/js/main.587dcbbc.js",
     "static/js/45.265dc2f0.js": "/FoodRSWeb/static/js/45.265dc2f0.js",
-    "static/media/neutral.png": "/FoodRSWeb/static/media/neutral.3e5ab9621a6e8ea5bb74.png",
-    "static/media/congrats.png": "/FoodRSWeb/static/media/congrats.0bd4240400b2eb721550.png",
-    "static/media/rec.png": "/FoodRSWeb/static/media/rec.31a715ca099ee5b345a6.png",
-    "static/media/waiting.png": "/FoodRSWeb/static/media/waiting.66a5decf5d0077393b4b.png",
-    "static/media/positive.png": "/FoodRSWeb/static/media/positive.4a1698199aa3c51f81c8.png",
-    "static/media/negative.png": "/FoodRSWeb/static/media/negative.5718a93c822a3ef4ac8b.png",
-    "static/media/sorry.png": "/FoodRSWeb/static/media/sorry.d8f3ea655b8d16db88d9.png",
+    "static/media/rec.png": "/FoodRSWeb/static/media/rec.4752a8a97a90070a6730.png",
+    "static/media/sorry.png": "/FoodRSWeb/static/media/sorry.cdc3dc5f4186225bf544.png",
+    "static/media/negative.png": "/FoodRSWeb/static/media/negative.0101b3d353c83e3d6dfe.png",
+    "static/media/waiting.png": "/FoodRSWeb/static/media/waiting.2a4415f55e0d6522f877.png",
+    "static/media/positive.png": "/FoodRSWeb/static/media/positive.ccce4d1ffc7d446ef534.png",
+    "static/media/neutral.png": "/FoodRSWeb/static/media/neutral.c84c0e621dcfa7d154ea.png",
+    "static/media/congrats.png": "/FoodRSWeb/static/media/congrats.b5a90506df7dad69794b.png",
     "index.html": "/FoodRSWeb/index.html",
     "static/media/openai-svgrepo-com.svg": "/FoodRSWeb/static/media/openai-svgrepo-com.04ad457f0e1c677f769f.svg",
     "serve.json": "/FoodRSWeb/serve.json",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/js/45.265dc2f0.js",
-    "static/js/main.3830371e.js"
+    "static/js/main.587dcbbc.js"
   ]
 }
